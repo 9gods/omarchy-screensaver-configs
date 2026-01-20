@@ -1,0 +1,71 @@
+# usually located in ~/.local/share/omarchy/default/alacritty
+
+[colors.primary]
+# Solarized Green
+# background = "0x2F2D2E"
+# foreground= "0x57A773"
+
+# Weyland Yutani
+# background = "0x111111"
+# foreground= "0xF0963C"
+
+# Monochrome-ish
+# background = "0x111111"
+# foreground = "0xf4f4f4"
+
+# Gunmetal
+# background = "0x111111"
+# foreground = "0x646464"
+
+# Retro Amber
+# background = "0x0c0a07"
+# foreground = "0xffb000"
+
+# Matrix Muted
+# background = "0x060a08"
+# foreground = "0x4e9a6b"
+
+# Carbon White
+# background = "0x0e0e0e"
+# foreground = "0xe1e1e1"
+
+# Deep Blue Grey
+# background = "0x0b0f14"
+# foreground = "0x9aa7b1"
+
+# CRT Washed
+# background = "0x080808"
+# foreground = "0xa8a8a8"
+
+# Deep Violet
+# background = "0x0f0b14"
+# foreground = "0x9a8cff"
+
+# Cosmic Purple
+# background = "0x120e18"
+# foreground = "0xb39ddb"
+
+# Muted Lavender
+# background = "0x14121a"
+# foreground = "0xa79ccf"
+
+# Synthwave Dark
+# background = "0x0e0912"
+# foreground = "0x9f7aea"
+
+# Purple Ash
+background = "0x111015"
+foreground = "0x7a728c"
+
+# OLED (change foreground hex for different colors)
+background = "0x000000"
+foreground = "0x9f7aea"
+
+[colors.cursor]
+cursor = "0x121113"
+
+[font]
+size = 14.0
+
+[window]
+opacity = 1.0
