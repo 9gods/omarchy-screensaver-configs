@@ -8,7 +8,6 @@ Personal configuration set for the **Omarchy screensaver**, including:
 
 This repo is meant to be **simple, safe, and reversible**.
 
----
 
 ## What this repository contains
 
@@ -19,7 +18,6 @@ This repo is meant to be **simple, safe, and reversible**.
 
 Nothing here modifies Omarchy globally unless you explicitly copy it.
 
----
 
 ## Changing screensaver ASCII art
 
@@ -30,7 +28,6 @@ The screensaver reads an input file, usually:
 ```
 You can replace this file anytime — no restart required.
 
----
 
 ## Selecting which effects are used
 
@@ -57,7 +54,6 @@ EFFECTS=(
 
 No other logic needs to be touched.
 
----
 
 ## Making the screensaver monochrome or themed
 
@@ -83,7 +79,6 @@ This affects **only the screensaver terminal**.
 
 I made some color schemes you can choose
 
----
 
 ### Disabling `tte` colors
 
@@ -99,7 +94,6 @@ This ensures:
 * no rainbow / animated colors
 * consistent look across effects
 
----
 
 ## Adding new ASCII files
 
@@ -113,7 +107,6 @@ cp ascii/ak.txt ~/.config/omarchy/branding/screensaver.txt
 
 Or modify the omarchy-cmd-screensaver script to randomly choose ASCII files if you want.
 
----
 
 ## Notes & limitations
 
@@ -123,7 +116,6 @@ Or modify the omarchy-cmd-screensaver script to randomly choose ASCII files if y
 
 All configs here work within those constraints.
 
----
 
 ## Philosophy
 
@@ -132,13 +124,11 @@ All configs here work within those constraints.
 * readable scripts
 * easy rollback
 
----
 
 ## License
 Do whatever you want.
 Configs are meant to be copied, modified, and broken.
 
----
 
 ## Contributing
 
