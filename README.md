@@ -110,7 +110,7 @@ Or modify the omarchy-cmd-screensaver script to randomly choose ASCII files if y
 
 ## Notes & limitations
 
-* `matrix` effect **does not fully respect input size** (this is a TTE limitation)
+* `matrix` effect **does not fully respect input size** (this is a TTE limitation as far as i know)
 * Canvas dimensions are in **terminal characters**, not pixels
 * This repo does **not** patch `tte` itself
 
